@@ -69,7 +69,7 @@ react-notes/
     └── ...
 ```
 
-##Installation and Setup
+## Installation and Setup
 
 1. Clone the repository:
    -git clone https://github.com/AndJunes/React-Note-Manager-Junes.git
